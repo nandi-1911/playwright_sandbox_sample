@@ -1,0 +1,28 @@
+{
+    "kowshik":{
+        "name":"Kowshik",
+        "email":"dummy@gmail.com",
+        "phone":"1234567890",
+        "address":"123, Main Street, City, Country",
+        "gender":"Male",
+        "days":["Monday", "Wednesday", "Friday"],
+        "country":"India",
+        "colour":"Red",
+        "sortedlist":["Dog", "Cheetah", "Cat"],
+        "date_picker1":"09/01/2025",
+        "date_picker2":"03/09/2025"
+    },
+    "nandhini":{
+        "name":"Nandhini",
+        "email":"dummy1@gmail.com",
+        "phone":"1234467890",
+        "address":"12334, Main Street, City, Country",
+        "gender":"Female",
+        "days":"Monday",
+        "country":"India",
+        "colour":["Red", "Blue", "Green"],
+        "sortedlist":"Dog",
+        "date_picker1":"09/02/2025",
+        "date_picker2":"27/09/2025"
+    }
+}
