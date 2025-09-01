@@ -1,0 +1,14 @@
+test 1
+> load https://sandbox.applitools.com/e-commerce
+> click books
+> verify book name and cost
+
+https://playwright.dev/docs/test-configuration
+https://playwright.dev/docs/api/class-test#test-describe
+https://playwright.dev/docs/input
+https://playwright.dev/docs/test-assertions
+https://playwright.dev/docs/writing-tests
+xpath , css
+array in javascript
+dictionary in javascript
+json structure
